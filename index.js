@@ -30,7 +30,7 @@ console.log(selectedDrivers);
 
 function createFareMultiplier(multiplier) {
   return function (fare) {
-    return fare * multiplier;
+      return fare * multiplier;
   };
 }
 
@@ -53,3 +53,12 @@ console.log(firstTwo);
 
 const lastTwo = selectDifferentDrivers(driveInnit, returnLastTwoDrivers);
 console.log(lastTwo);
+
+//function selectingDrivers(arrayOfDrivers,driverSelector){
+ // return driverSelector(arrayOfDrivers);
+//}
+//const firstTwoDrivers = selectDifferentDrivers(driveArray, returnFirstTwoDrivers);
+//console.log(firstTwo);
+
+//const lastTwoDriver = selectDifferentDrivers(driveInnit, returnLastTwoDrivers);
+//console.log(lastTwo);

@@ -5,9 +5,9 @@
     "passes": 10,
     "pending": 0,
     "failures": 3,
-    "start": "2024-01-02T02:58:20.863Z",
-    "end": "2024-01-02T02:58:21.233Z",
-    "duration": 370
+    "start": "2024-01-02T03:02:35.229Z",
+    "end": "2024-01-02T03:02:35.596Z",
+    "duration": 367
   },
   "tests": [
     {
@@ -27,7 +27,7 @@
     {
       "title": "has the `returnFirstTwoDrivers` function to as its first element",
       "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to deeply equal [Function: returnFirstTwoDrivers]",
@@ -118,7 +118,7 @@
     {
       "title": "has the `returnFirstTwoDrivers` function to as its first element",
       "fullTitle": "index.js selectingDrivers has the `returnFirstTwoDrivers` function to as its first element",
-      "duration": 2,
+      "duration": 1,
       "currentRetry": 0,
       "err": {
         "message": "expected undefined to deeply equal [Function: returnFirstTwoDrivers]",
